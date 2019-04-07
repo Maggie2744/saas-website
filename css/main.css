@@ -1,3 +1,8 @@
+html {
+  color: #43464e;
+  background-color: #e5e5e5;
+}
+
 .img-flex {
   display: block;
   width: 100%;
@@ -6,4 +11,14 @@
 .logo {
   display: block;
   max-width: 100px;
+}
+
+header {
+  background-color: #d8d4d3;
+  color: #43464e;
+}
+
+footer {
+  background-color: #d8d4d3;
+  color: #43464e;
 }
