@@ -1,6 +1,11 @@
 html {
   color: #43464e;
   background-color: #e5e5e5;
+  font-family: 'Raleway', sans-serif;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Oswald', sans-serif;
 }
 
 .img-flex {
