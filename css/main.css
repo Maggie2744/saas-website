@@ -2,3 +2,8 @@
   display: block;
   width: 100%;
 }
+
+.logo {
+  display: block;
+  max-width: 100px;
+}
