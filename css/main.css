@@ -1,6 +1,4 @@
 html {
-  color: #43464e;
-  background-color: #e5e5e5;
   font-family: 'Raleway', sans-serif;
 }
 
@@ -8,35 +6,27 @@ h1, h2, h3, h4 {
   font-family: 'Oswald', sans-serif;
 }
 
-.img-flex {
-  display: block;
-  width: 100%;
+.section-1 {
+  background-color: #339999;
 }
 
-.logo {
-  display: block;
-  max-width: 100px;
+.section-1-card {
+  background-color: #ffcc66;
 }
 
-header {
-  background-color: #d8d4d3;
-  color: #43464e;
+.section-2 {
+  background-color: #339999;
+}
+
+.section-2-card {
+  background-color: #ffcc66;
 }
 
 footer {
-  background-color: #d8d4d3;
-  color: #43464e;
+  background-color: #ffcc66;
 }
 
-.section-1 {
-  background-color: #D5C391;
-}
-
-.section-3 {
-  background-color: #43464e;
-  color: #e5e5e5;
-}
-
-.card {
-  background-color: #D5C391;
+.copyright {
+  background-color: #339999;
+  color: #fff;
 }
