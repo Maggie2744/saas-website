@@ -6,6 +6,20 @@ h1, h2, h3, h4 {
   font-family: 'Oswald', sans-serif;
 }
 
+header {
+  background-color: #111;
+}
+
+.sign-up-button {
+  color: #ffcc66;
+  border: 1px solid #ffcc66;
+  border-radius: 5px;
+}
+
+nav li a {
+  color: #ffcc66;
+}
+
 .section-1 {
   background-color: #339999;
 }
