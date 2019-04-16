@@ -108,6 +108,18 @@ footer {
 
 .section-2-card {
   background-color: #ffcc66;
+  border-radius: 15px;
+}
+
+.resources-button {
+  color: #ffcc66;
+  text-decoration: none;
+}
+
+.resources-button:hover {
+  background-color: #ffcc66;
+  color: #111;
+  border-radius: 10px;
 }
 
 /**Tour Page Why Use Our Software Section 3 CSS**/
