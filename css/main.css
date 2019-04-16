@@ -182,8 +182,19 @@ footer {
 
 /**Tour Page Search Our Site Section 5 CSS**/
 
-.section-5 {
+.btn {
+  background-color: #ffcc66;
+  color: #339999;
+  text-decoration: none;
+  border: 2px solid #339999;
+  border-radius: 8px;
+}
+
+.btn:hover {
+  color: #fff;
   background-color: #339999;
+  border-radius: 10px;
+  border: 2px solid #339999;
 }
 
 /**Tour Page Contact Information Section 6 CSS**/
