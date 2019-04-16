@@ -122,6 +122,28 @@ footer {
   border-radius: 10px;
 }
 
+/**Front Page Expanding Section CSS **/
+
+.expanding {
+  background-color: #111;
+}
+
+.expanding-content {
+  background-color: #ffcc66;
+  border-radius: 15px;
+}
+
+.expanding-button {
+  color: #339999;
+  text-decoration: none;
+}
+
+.expanding-button:hover {
+  color: #fff;
+  background-color: #339999;
+  border-radius: 10px;
+}
+
 /**Tour Page Why Use Our Software Section 3 CSS**/
 
 .section-3 {
