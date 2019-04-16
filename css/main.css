@@ -1,10 +1,26 @@
 html {
   font-family: 'Raleway', sans-serif;
+  background-color: #111;
 }
+
+/** Header CSS **/
 
 h1 {
   font-family: 'Bigshot One', cursive;
+}
+
+.h1 {
+  text-decoration: none;
   color: #339999;
+}
+
+.h1-2 {
+  text-decoration: none;
+  color: #ffcc66;
+}
+
+ul a {
+  text-decoration: none;
 }
 
 h2, h3, h4 {
@@ -25,29 +41,11 @@ nav li a {
   color: #ffcc66;
 }
 
-.banner-content {
-  color: #fff;
+nav li a:hover {
+  color: #339999;
 }
 
-.banner-button {
-  color: #ffcc66;
-}
-
-.section-1 {
-  background-color: #339999;
-}
-
-.section-1-card {
-  background-color: #ffcc66;
-}
-
-.section-2 {
-  background-color: #339999;
-}
-
-.section-2-card {
-  background-color: #ffcc66;
-}
+/** Footer CSS **/
 
 footer {
   background-color: #ffcc66;
@@ -58,6 +56,50 @@ footer {
   color: #fff;
 }
 
+/**Front Page Banner CSS**/
+
+.banner {
+  background-color: #111;
+}
+
+.banner-content {
+  background-color: #ffcc66;
+  border-radius: 15px;
+}
+
+.banner-button {
+  color: #339999;
+  text-decoration: none;
+}
+
+.banner-button:hover {
+  color: #ffcc66;
+  background-color: #339999;
+  border-radius: 10px;
+}
+
+/**Front Page Collaboration Software Section 1 CSS**/
+
+.section-1 {
+  background-color: #339999;
+}
+
+.section-1-card {
+  background-color: #ffcc66;
+}
+
+/**Front Page Get Inspired Section 2 CSS **/
+
+.section-2 {
+  background-color: #339999;
+}
+
+.section-2-card {
+  background-color: #ffcc66;
+}
+
+/**Tour Page Why Use Our Software Section 3 CSS**/
+
 .section-3 {
   background-color: #339999;
 }
@@ -65,6 +107,8 @@ footer {
 .section-3-card {
   background-color: #ffcc66;
 }
+
+/**Tour Page Blog Section 4 CSS**/
 
 .section-4 {
   background-color: #339999;
@@ -74,9 +118,13 @@ footer {
   background-color: #ffcc66;
 }
 
+/**Tour Page Search Our Site Section 5 CSS**/
+
 .section-5 {
   background-color: #339999;
 }
+
+/**Tour Page Contact Information Section 6 CSS**/
 
 .section-6 {
   background-color: #339999;
@@ -85,6 +133,8 @@ footer {
 .section-6-card {
   background-color: #ffcc66;
 }
+
+/**Pricing Page Pricing Table CSS**/
 
 .sign-up {
   background-color: #000000;
