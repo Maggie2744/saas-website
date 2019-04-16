@@ -78,6 +78,8 @@ footer {
 .banner-button {
   color: #339999;
   text-decoration: none;
+  border: 2px solid #339999;
+  border-radius: 8px;
 }
 
 .banner-button:hover {
@@ -100,6 +102,8 @@ footer {
 .collab-button {
   color: #ffcc66;
   text-decoration: none;
+  border: 2px solid #ffcc66;
+  border-radius: 8px;
 }
 
 .collab-button:hover {
@@ -122,6 +126,8 @@ footer {
 .resources-button {
   color: #ffcc66;
   text-decoration: none;
+  border: 2px solid #ffcc66;
+  border-radius: 8px;
 }
 
 .resources-button:hover {
@@ -144,6 +150,8 @@ footer {
 .expanding-button {
   color: #339999;
   text-decoration: none;
+  border: 2px solid #339999;
+  border-radius: 8px;
 }
 
 .expanding-button:hover {
