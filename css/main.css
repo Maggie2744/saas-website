@@ -23,6 +23,10 @@ h1 {
   color: #ffcc66;
 }
 
+.h1-2:hover {
+  color: #fff;
+}
+
 ul a {
   text-decoration: none;
 }
@@ -182,7 +186,7 @@ footer {
 
 /**Tour Page Search Our Site Section 5 CSS**/
 
-.btn {
+.btn-2 {
   background-color: #ffcc66;
   color: #339999;
   text-decoration: none;
@@ -190,11 +194,11 @@ footer {
   border-radius: 8px;
 }
 
-.btn:hover {
-  color: #fff;
+.btn-2:hover {
+  color: #ffcc66;
   background-color: #339999;
   border-radius: 10px;
-  border: 2px solid #fff;
+  border: 2px solid #339999;
 }
 
 /**Tour Page Contact Information Section 6 CSS**/
@@ -215,4 +219,19 @@ footer {
 
 .sign-up-card {
   background-color: #339999;
+}
+
+.btn {
+  background-color: #ffcc66;
+  color: #339999;
+  text-decoration: none;
+  border: 2px solid #339999;
+  border-radius: 8px;
+}
+
+.btn:hover {
+  color: #fff;
+  background-color: #339999;
+  border-radius: 10px;
+  border: 2px solid #fff;
 }
