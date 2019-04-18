@@ -12,12 +12,19 @@
 </head>
 <body>
 
+  <ul class="skip-links">
+    <li><a href="#nav">Skip to navigation</a></li>
+    <li><a href="#main">Skip to the main content</a></li>
+    <li><a href="#plans">Skip to information about our plans</a></li>
+    <li><a href="#footer">Skip to the bottom of the page</a></li>
+  </ul>
+
   <header role="banner" class="grid">
     <div class="unit xs-1 s-1 m-1-2 l-1-2 unit-content-center">
       <a class="h1" href="index.html"><h1 class="yotta text-center push-none">VW</h1></a>
     </div>
     <div class="unit xs-1 s-1 m-1-2 l-1-2 unit-content-center island">
-      <nav role="navigation" class="pad-t">
+      <nav id="nav" role="navigation" class="pad-t">
         <ul class="grid list-group text-center">
           <li class="unit push-1-4 xs-1 s-1-3 m-1 l-1-3"><a href="tour.html">Products & Resources</a></li>
           <li class="unit push-1-4 xs-1 s-1-3 m-1 l-1-3"><a href="pricing.html">Pricing</a></li>
@@ -27,7 +34,7 @@
     </div>
   </header>
 
-  <main role="main" class="grid">
+  <main role="main" id="main" class="grid">
 
     <div class="unit xs-1 s-1 m-1 l-1 banner text-center island wrapper">
       <div class="banner-content island max-length">
@@ -40,7 +47,7 @@
       <img class="img-flex" src="images/pricing/10-image.jpg" alt="work space with a desktop on a desk">
     </div>
 
-    <div class="unit xs-1 s-1 m-1 l-1 section-1 text-center island">
+    <div id="plans" class="unit xs-1 s-1 m-1 l-1 section-1 text-center island">
       <h2 class="tera pad-t">Plans</h2>
 
       <div class="grid">
@@ -94,7 +101,7 @@
 
   </main>
 
-  <footer role="contentinfo" class="grid pad-t-2">
+  <footer role="contentinfo" id="footer" class="grid pad-t-2">
     <div class="unit xs-1 s-1 m-1-3 unit-content-center">
       <a class="h1" href="index.html"><h1 class="yotta text-center push-none">VW</h1></a>
     </div>
