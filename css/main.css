@@ -70,7 +70,7 @@ h2, h3, h4 {
 }
 
 header {
-  background-color: #111;
+  background-color: #fff;
 }
 
 .sign-up-button {
@@ -79,7 +79,7 @@ header {
   border-radius: 5px;
 }
 
-nav li a {
+/* nav li a {
   color: red;
 }
 
@@ -92,6 +92,31 @@ nav li a:focus {
 
 nav li a:hover {
   color: #000;
+} */
+
+.return {
+  color: #fff;
+}
+
+.return:hover,
+.return:focus {
+  color: #000;
+  background-color: #fff;
+  outline-color: #fff;
+}
+
+.nav li a {
+  color: #000;
+  background-color: #fff;
+  border: 2px solid #000;
+}
+
+.nav li a:hover,
+.nav li a:focus {
+  background-color: #000;
+  color: #fff;
+  border-color: #fff;
+  outline-color: #fff;
 }
 
 /* Footer CSS */
@@ -290,4 +315,21 @@ footer {
 .btn:hover {
   color: #000;
   background-color: #fff;
+}
+
+header h1 {
+  color: #000;
+}
+
+.return:hover h1 {
+  background-color: #000;
+  color: #fff;
+}
+
+@media only screen and (min-width: 38em) {
+
+  .nav {
+    text-align: right;
+  }
+
 }
