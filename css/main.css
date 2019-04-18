@@ -80,7 +80,18 @@ header {
 }
 
 nav li a {
-  color: #fc6;
+  color: red;
+}
+
+nav li a:hover,
+nav li a:focus {
+  color: #000;
+  background-color: #fff;
+  border-radius: 4px;
+}
+
+nav li a:hover {
+  color: #000;
 }
 
 /* Footer CSS */
