@@ -88,11 +88,23 @@ footer {
 }
 
 .copyright {
-  background-color: #339999;
-  color: #fff;
+  background-color: #fff;
+  color: #000;
 }
 
 /**Front Page Banner CSS**/
+
+.better-btn {
+  color: #fff;
+  background-color: #000;
+  border-radius: 8px;
+  text-decoration: none;
+}
+
+.better-btn:hover {
+  color: #000;
+  background-color: #fff;
+}
 
 .banner {
   background-color: #111;
