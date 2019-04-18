@@ -31,7 +31,7 @@ h1 {
 .h1 {
   font-family: 'Bigshot One', cursive;
   text-decoration: none;
-  color: #339999;
+  color: #399;
 }
 
 .footer-logo {
@@ -44,7 +44,7 @@ h1 {
 
 .h1-2 {
   text-decoration: none;
-  color: #ffcc66;
+  color: #fc6;
 }
 
 .h1-2:hover {
@@ -64,17 +64,17 @@ header {
 }
 
 .sign-up-button {
-  color: #ffcc66;
-  border: 1px solid #ffcc66;
+  color: #fc6;
+  border: 1px solid #fc6;
   border-radius: 5px;
 }
 
 nav li a {
-  color: #ffcc66;
+  color: #fc6;
 }
 
 nav li a:hover {
-  color: #339999;
+  color: #399;
 }
 
 /** Footer CSS **/
@@ -84,7 +84,7 @@ footer {
 }
 
 .contact {
-  color: #339999;
+  color: #399;
 }
 
 .copyright {
@@ -111,43 +111,43 @@ footer {
 }
 
 .banner-content {
-  background-color: #ffcc66;
+  background-color: #fc6;
   border-radius: 15px;
 }
 
 .banner-button {
-  color: #339999;
+  color: #399;
   text-decoration: none;
-  border: 2px solid #339999;
+  border: 2px solid #399;
   border-radius: 8px;
 }
 
 .banner-button:hover {
   color: #fff;
-  background-color: #339999;
+  background-color: #399;
   border-radius: 10px;
 }
 
 /**Front Page Collaboration Software Section 1 CSS**/
 
 .section-1 {
-  background-color: #339999;
+  background-color: #399;
 }
 
 .section-1-card {
-  background-color: #ffcc66;
+  background-color: #fc6;
   border-radius: 15px;
 }
 
 .collab-button {
-  color: #ffcc66;
+  color: #fc6;
   text-decoration: none;
-  border: 2px solid #ffcc66;
+  border: 2px solid #fc6;
   border-radius: 8px;
 }
 
 .collab-button:hover {
-  background-color: #ffcc66;
+  background-color: #fc6;
   color: #111;
   border-radius: 10px;
 }
@@ -160,23 +160,23 @@ footer {
 /**Front Page Get Inspired Section 2 CSS **/
 
 .section-2 {
-  background-color: #339999;
+  background-color: #399;
 }
 
 .section-2-card {
-  background-color: #ffcc66;
+  background-color: #fc6;
   border-radius: 15px;
 }
 
 .resources-button {
-  color: #ffcc66;
+  color: #fc6;
   text-decoration: none;
-  border: 2px solid #ffcc66;
+  border: 2px solid #fc6;
   border-radius: 8px;
 }
 
 .resources-button:hover {
-  background-color: #ffcc66;
+  background-color: #fc6;
   color: #111;
   border-radius: 10px;
 }
@@ -188,78 +188,78 @@ footer {
 }
 
 .expanding-content {
-  background-color: #ffcc66;
+  background-color: #fc6;
   border-radius: 15px;
 }
 
 .expanding-button {
-  color: #339999;
+  color: #399;
   text-decoration: none;
-  border: 2px solid #339999;
+  border: 2px solid #399;
   border-radius: 8px;
 }
 
 .expanding-button:hover {
   color: #fff;
-  background-color: #339999;
+  background-color: #399;
   border-radius: 10px;
 }
 
 /**Tour Page Why Use Our Software Section 3 CSS**/
 
 .section-3 {
-  background-color: #339999;
+  background-color: #399;
 }
 
 .section-3-card {
-  background-color: #ffcc66;
+  background-color: #fc6;
 }
 
 /**Tour Page Blog Section 4 CSS**/
 
 .section-4 {
-  background-color: #339999;
+  background-color: #399;
 }
 
 .section-4-card {
-  background-color: #ffcc66;
+  background-color: #fc6;
 }
 
 /**Tour Page Search Our Site Section 5 CSS**/
 
 .btn-2 {
-  background-color: #ffcc66;
-  color: #339999;
+  background-color: #fc6;
+  color: #399;
   text-decoration: none;
-  border: 2px solid #339999;
+  border: 2px solid #399;
   border-radius: 8px;
 }
 
 .btn-2:hover {
-  color: #ffcc66;
-  background-color: #339999;
+  color: #fc6;
+  background-color: #399;
   border-radius: 10px;
-  border: 2px solid #339999;
+  border: 2px solid #399;
 }
 
 /**Tour Page Contact Information Section 6 CSS**/
 
 .section-6 {
-  background-color: #339999;
+  background-color: #399;
 }
 
 .section-6-card {
-  background-color: #ffcc66;
+  background-color: #fc6;
 }
 
 /**Pricing Page Pricing Table CSS**/
 
 .sign-up {
-  background-color: #000000;
+  background-color: #000;
 }
 
 .sign-up-card {
-  background-color: #339999;
+  background-color: #399;
 }
 
 .btn {
