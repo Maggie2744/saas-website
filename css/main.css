@@ -263,16 +263,14 @@ footer {
 }
 
 .btn {
-  background-color: #ffcc66;
-  color: #339999;
-  text-decoration: none;
-  border: 2px solid #339999;
+  color: #fff;
+  background-color: #000;
   border-radius: 8px;
+  text-decoration: none;
+  border: none;
 }
 
 .btn:hover {
-  color: #fff;
-  background-color: #339999;
-  border-radius: 10px;
-  border: 2px solid #fff;
+  color: #000;
+  background-color: #fff;
 }
