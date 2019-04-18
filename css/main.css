@@ -34,6 +34,12 @@ h1 {
   color: #399;
 }
 
+.h1-footer {
+  font-family: "Bigshot One", cursive;
+  text-decoration: none;
+  color: #000;
+}
+
 .h1-3 {
   font-family: "Bigshot One", cursive;
   text-decoration: none;
@@ -50,6 +56,11 @@ h1 {
 
 .h1:hover {
   color: #fff;
+}
+
+.h1-footer:hover {
+  color: #fff;
+  background-color: #000;
 }
 
 .h1-2 {
@@ -122,11 +133,11 @@ nav li a:hover {
 /* Footer CSS */
 
 footer {
-  background-color: #111;
+  background-color: #fff;
 }
 
 .contact {
-  color: #399;
+  color: #000;
 }
 
 .copyright {
@@ -318,6 +329,10 @@ footer {
 }
 
 header h1 {
+  color: #000;
+}
+
+footer h2 {
   color: #000;
 }
 
