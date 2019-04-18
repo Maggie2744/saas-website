@@ -12,12 +12,12 @@
 </head>
 <body>
 
-  <header class="grid">
+  <header role="banner" class="grid">
     <div class="unit xs-1 s-1 m-1-2 l-1-2 unit-content-center">
       <a class="h1" href="index.html"><h1 class="yotta text-center push-none">VW</h1></a>
     </div>
     <div class="unit xs-1 s-1 m-1-2 l-1-2 unit-content-center island">
-      <nav class="pad-t">
+      <nav role="navigation" class="pad-t">
         <ul class="grid list-group text-center">
           <li class="unit push-1-4 xs-1 s-1-3 m-1 l-1-3"><a href="tour.html">Products & Resources</a></li>
           <li class="unit push-1-4 xs-1 s-1-3 m-1 l-1-3"><a href="pricing.html">Pricing</a></li>
@@ -27,24 +27,25 @@
     </div>
   </header>
 
-  <main class="grid">
+  <main role="main" class="grid">
 
-    <div class="unit banner text-center island wrapper">
+    <div class="unit xs-1 s-1 m-1 l-1 banner text-center island wrapper">
       <div class="banner-content island max-length">
         <h2 class="tera">Pricing</h2>
         <p class="mega">Get high quality for a low price.</p>
       </div>
     </div>
 
-    <div class="unit">
+    <div class="unit xs-1 s-1 m-1 l-1">
       <img class="img-flex" src="images/pricing/10-image.jpg" alt="...">
     </div>
 
-    <div class="unit section-6 text-center island wrapper">
+    <div class="unit xs-1 s-1 m-1 l-1 section-1 text-center island">
       <h2 class="tera pad-t">Plans</h2>
 
       <div class="grid">
-        <div class="unit xs-1 s-1-2 banner-content island push">
+
+        <div class="unit xs-1 s-1 m-1-2 l-1-2 banner-content island push">
           <table>
             <caption class="tera text-center push-0">Freemium</caption>
             <thead>
@@ -66,10 +67,8 @@
             <a  class="expanding-button giga island-1-4" href="#">Try for free</a>
           </div>
         </div>
-      </div>
 
-      <div class="grid">
-        <div class="unit xs-1 s-1-2 banner-content island push">
+        <div class="unit xs-1 s-1 m-1-2 l-1-2 banner-content island push">
           <table>
             <caption class="tera text-center push-0">Premium</caption>
             <thead>
@@ -88,22 +87,23 @@
             </tbody>
           </table>
         </div>
+
       </div>
 
     </div>
 
   </main>
 
-  <footer class="grid pad-t-2">
+  <footer role="contentinfo" class="grid pad-t-2">
     <div class="unit xs-1 s-1 m-1-3 unit-content-center">
       <a class="h1" href="index.html"><h1 class="yotta text-center push-none">VW</h1></a>
     </div>
     <div class="unit xs-1-2 s-1-2 m-1-3 unit-content-center island">
       <nav>
         <ul class="grid list-group text-center">
-          <li class="unit push-1-4 xs-1 s-1"><a href="tour.html">Products & Resources</a></li>
-          <li class="unit push-1-4 xs-1 s-1"><a href="pricing.html">Pricing</a></li>
-          <li class="unit push-1-4 xs-1 s-1"><a href="sign-up.html">Sign-up</a></li>
+          <li class="unit push-1-4 xs-1 s-1-3 m-1 l-1-3"><a href="tour.html" aria-label="Click to learn more about Products and Resources">Products & Resources</a></li>
+          <li class="unit push-1-4 xs-1 s-1-3 m-1 l-1-3"><a href="pricing.html" aria-label="Click to learn more about Pricing">Pricing</a></li>
+          <li class="unit push-1-4 xs-1 s-1-3 m-1 l-1-3"><a href="sign-up.html" aria-label="Click to Sign Up for our software">Sign-up</a></li>
         </ul>
       </nav>
     </div>

@@ -116,6 +116,11 @@ footer {
   border-radius: 10px;
 }
 
+.img-1 {
+  max-height: 700px;
+  overflow: hidden;
+}
+
 /**Front Page Get Inspired Section 2 CSS **/
 
 .section-2 {
