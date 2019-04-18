@@ -1,5 +1,5 @@
 html {
-  font-family: 'Raleway', sans-serif;
+  font-family: Raleway, sans-serif;
   background-color: #111;
 }
 
@@ -22,14 +22,14 @@ html {
   top: 0;
 }
 
-/** Header CSS **/
+/* Header CSS */
 
 h1 {
-  font-family: 'Bigshot One', cursive;
+  font-family: "Bigshot One", cursive;
 }
 
 .h1 {
-  font-family: 'Bigshot One', cursive;
+  font-family: "Bigshot One", cursive;
   text-decoration: none;
   color: #399;
 }
@@ -56,7 +56,7 @@ ul a {
 }
 
 h2, h3, h4 {
-  font-family: 'Oswald', sans-serif;
+  font-family: Oswald, sans-serif;
 }
 
 header {
@@ -77,7 +77,7 @@ nav li a:hover {
   color: #399;
 }
 
-/** Footer CSS **/
+/* Footer CSS */
 
 footer {
   background-color: #111;
@@ -92,7 +92,7 @@ footer {
   color: #000;
 }
 
-/**Front Page Banner CSS**/
+/* Front Page Banner CSS */
 
 .better-btn {
   color: #fff;
@@ -128,7 +128,7 @@ footer {
   border-radius: 10px;
 }
 
-/**Front Page Collaboration Software Section 1 CSS**/
+/* Front Page Collaboration Software Section 1 CSS */
 
 .section-1 {
   background-color: #399;
@@ -157,7 +157,7 @@ footer {
   overflow: hidden;
 }
 
-/**Front Page Get Inspired Section 2 CSS **/
+/* Front Page Get Inspired Section 2 CSS */
 
 .section-2 {
   background-color: #399;
@@ -181,7 +181,7 @@ footer {
   border-radius: 10px;
 }
 
-/**Front Page Expanding Section CSS **/
+/* Front Page Expanding Section CSS */
 
 .expanding {
   background-color: #111;
@@ -205,7 +205,7 @@ footer {
   border-radius: 10px;
 }
 
-/**Tour Page Why Use Our Software Section 3 CSS**/
+/* Tour Page Why Use Our Software Section 3 CSS */
 
 .section-3 {
   background-color: #399;
@@ -215,7 +215,7 @@ footer {
   background-color: #fc6;
 }
 
-/**Tour Page Blog Section 4 CSS**/
+/* Tour Page Blog Section 4 CSS */
 
 .section-4 {
   background-color: #399;
@@ -225,7 +225,7 @@ footer {
   background-color: #fc6;
 }
 
-/**Tour Page Search Our Site Section 5 CSS**/
+/* Tour Page Search Our Site Section 5 CSS */
 
 .btn-2 {
   background-color: #fc6;
@@ -242,7 +242,7 @@ footer {
   border: 2px solid #399;
 }
 
-/**Tour Page Contact Information Section 6 CSS**/
+/* Tour Page Contact Information Section 6 CSS */
 
 .section-6 {
   background-color: #399;
@@ -252,7 +252,7 @@ footer {
   background-color: #fc6;
 }
 
-/**Pricing Page Pricing Table CSS**/
+/* Pricing Page Pricing Table CSS */
 
 .sign-up {
   background-color: #000;
