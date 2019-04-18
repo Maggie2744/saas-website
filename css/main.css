@@ -34,6 +34,16 @@ h1 {
   color: #399;
 }
 
+.h1-3 {
+  font-family: "Bigshot One", cursive;
+  text-decoration: none;
+  color: #fff;
+}
+
+.h1-3:hover {
+  color: #399;
+}
+
 .footer-logo {
   text-decoration: none;
 }
@@ -71,10 +81,6 @@ header {
 
 nav li a {
   color: #fc6;
-}
-
-nav li a:hover {
-  color: #399;
 }
 
 /* Footer CSS */
